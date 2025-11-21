@@ -1,0 +1,10 @@
+{
+    "player": {
+        "player_name": "asd",
+        "player_rounds_won": 0
+    },
+    "dealer": {
+        "dealer_name": "John",
+        "dealer_rounds_won": 0
+    }
+}
